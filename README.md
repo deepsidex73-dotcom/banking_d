@@ -1,1 +1,1 @@
-# Banking in Dlang to learning POO 
+# Banking D
